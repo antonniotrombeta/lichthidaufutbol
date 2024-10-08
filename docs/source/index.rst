@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+LICHTHIDAU.FUTBOL - CẬP NHẬT LỊCH THI ĐẤU BÓNG ĐÁ MỚI NHẤT HÔM NAY
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`lichthidau.futbol <https://lichthidau.futbol/>`_ là trang chuyên cập nhật lịch thi đấu bóng đá hôm nay và thời điểm các trận túc cầu diễn ra trong ngày. Website không chỉ cung cấp thời gian thi đấu của các đội bóng mà còn mang đến cho người dùng nhiều thông tin hữu ích khác như tin tức thể thao nóng hổi, bảng xếp hạng, kết quả bóng đá, tỷ lệ kèo nhà cái của các giải đấu lớn nhỏ trên toàn thế giới. Với giao diện dễ sử dụng và tính năng cập nhật nhanh chóng, cam kết rằng lichthidau.futbol chính là điểm đến lý tưởng cho các tín đồ đam mê thể thao muốn theo dõi diễn biến trận đấu trong ngày.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông Tin Liên Hệ:
 
-.. note::
+Website: https://lichthidau.futbol/
 
-   This project is under active development.
+Số Điện Thoại: 0352354882
 
-Contents
---------
+Email: lichthidaufutbol@gmail.com
 
-.. toctree::
+Địa Chỉ: 18-8 Phố D. Đình Nghệ, Yên Hoà, Cầu Giấy, Hà Nội, Việt Nam
 
-   usage
-   api
+#lichthidau #lichthidau_futbol
